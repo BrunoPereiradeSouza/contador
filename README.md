@@ -2,4 +2,4 @@
 Contador desenvolvido utilizando React Native e TypeScript.
 
 ## Tela do App
-![Tela do App](./assets/images/contadorApp.jpg)
+<img src="./assets/images/contadorApp.jpg" width="400" alt="Tela do App" />
